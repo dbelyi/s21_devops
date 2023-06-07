@@ -1,2 +1,8 @@
 # s21_devops
-🎉 Completed projects in the DevOps branch of School 21
+
+|        Project       |                                  Description                                  |     Score     |
+|:--------------------:|:-----------------------------------------------------------------------------:|:-------------:|
+|         Linux        |         Linux system installation and updates. Administration basics.         | 300 XP / 100% |
+|     Linux Network    |               Linux networks configuration on virtual machines.               | 350 XP / 140% |
+| LinuxMonitoring v1.0 |                Linux basic bash scripting and system research.                |  347 XP / 99% |
+|     SimpleDocker     | Introduction to docker. Developing a simple docker image for your own server. | 300 XP / 100% |
